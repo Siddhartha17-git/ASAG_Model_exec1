@@ -81,7 +81,7 @@ Input: [CLS] Reference Answer [SEP] Student Answer [SEP]
 
 ### Local Machine
 ```bash
-git clone https://github.com/YOUR_USERNAME/ASAG-NLP.git
+git clone https://github.com/Siddhartha17-git/ASAG_Model_exec1.git
 cd ASAG-NLP
 pip install -r requirements.txt
 python model.py
