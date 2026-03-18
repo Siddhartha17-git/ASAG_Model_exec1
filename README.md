@@ -2,7 +2,7 @@
 
 Automatic grading of student short answers using fine-tuned BERT + BiLSTM + Multi-Head Attention.
 
-Built as part of NLP course project. Reimplemented from [wuhan-1222/ASAG](https://github.com/wuhan-1222/ASAG) using HuggingFace Transformers + PyTorch.
+Built as part of NLP course project. Implementation using HuggingFace Transformers + PyTorch.
 
 ---
 
